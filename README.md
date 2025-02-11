@@ -19,8 +19,8 @@ The content is organized in nine lectures each paired with a lab notebook, corre
 ## Folder Structure
 The material is organized into the following folders:
 - **Lectures/**: lecture slides
-- **LabNotebooks/**: Jupyter notebooks (lab + solution lab) with programming exercises and insight questions. Also available on Kaggle, e.g., [Lab1](https://www.kaggle.com/code/econgeduti/lab-1) and [Lab1(Solutions)](https://www.kaggle.com/code/econgeduti/lab-1-solutions). The file [LabNotebooks/resources.md](/LabNotebooks/resources.md) contains a list of direct links to the Kaggle notebooks. 
-- **ComplementaryMaterial/**: additional mini-notebooks or other supplementary material to support understanding with practical examples. The file [ComplementaryMaterial/resources.md](/ComplementaryMaterial/resources.md) contains also a list of direct links to the complementary material resources.
+- **LabNotebooks/**: Jupyter notebooks (lab + solution lab) with programming exercises and insight questions. Also available on Kaggle, e.g., [Lab1](https://www.kaggle.com/code/econgeduti/lab-1) and [Lab1(Solutions)](https://www.kaggle.com/code/econgeduti/lab-1-solutions). The file [resources.md](/LabNotebooks/resources.md) contains a list of direct links to the Kaggle notebooks. 
+- **ComplementaryMaterial/**: additional mini-notebooks or other supplementary material to support understanding with practical examples. The file [resources.md](/ComplementaryMaterial/resources.md) contains also a list of direct links to the complementary material resources.
 - **Assignments/**: small deep learning projects given as course assignments.
 
 ## Getting Started
