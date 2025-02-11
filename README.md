@@ -1,9 +1,11 @@
-# Deep Learning Course Education Material 
-This repository contains the educational material including lab notebooks, assignments, and lecture material for the course Deep Learning of the Engineering with AI Minor programme, EEMCS, TUDelft (edition 2024-2025).
+# Deep Learning Course - Educational Material 
 
-The course is designed to provide students with an understanding of neural networks and their applications. The material covers theoretical aspects and programming exercises implemented with PyTorch. Students are assumed to be familiar with basic machine learning concepts such as regression, classification, supervised/unsupervised learning, linear perceptron.
+This repository contains educational materials, including lab notebooks, assignments, and lecture materials for the course *Deep Learning* in the Engineering with AI Minor program, EEMCS, TUDelft (edition 2024-2025).
+
+## Content Overview
+The course is designed to provide students with a comprehensive understanding of neural networks and their applications. The material covers both theoretical concepts and programming exercises implemented using PyTorch. Students are expected to be familiar with basic machine learning concepts, such as regression, classification, supervised and unsupervised learning, and linear perceptrons.
+
 Key topics include:
-
 - Feedforward Neural networks 
 - Maximum Likelihood
 - Gradient-based optimization
@@ -13,28 +15,23 @@ Key topics include:
 - Recurrent Neural networks
 - Fundamentals of Reinforcement Learning
 
+
 ## Folder Structure
-The materials for the course is organized into different folders.
-- **Lectures/** contains all lecture slides which cover mostly explanation and exercises on theoretical concepts
-
-- **Lab Notebooks/**  contains Python Jupyter notebooks with guided programming exercises and insight questions. Solutions notebooks are also included. These notebooks are also available in Kaggle. See for instance [Lab1](https://www.kaggle.com/code/econgeduti/lab-1)
-
-- **Complementary Notebooks/** contains additional mini-notebooks used as supplementary material and exercises for practical understanding of the concepts explained. 
-
-- **Assignments/**  contains the two assignments of the course.
-
+The material is organized into the following folders:
+- **Lectures/**: lecture slides
+- **LabNotebooks/**: Jupyter notebooks (lab+solution lab) with programming exercises and insight questions. Also available on Kaggle, e.g., [Lab1](https://www.kaggle.com/code/econgeduti/lab-1) and [Lab1(Solutions)](https://www.kaggle.com/code/econgeduti/lab-1-solutions).
+- **ComplementaryMaterial/**: additional mini-notebooks or other material for supplementary exercises or simulations for practical understanding of concepts explained in class.
+- **Assignments/**: small deep learning projects given as course assignments.
 
 ## Getting Started
-
-1. Clone the repository to your local machine using the following command:
+To clone the repository in your local machine, use the following command:
    ```bash
-   git clone https://github.com/username/course-repo.git
-
+   git clone https://github.com/ElenaCongeduti/DL-Edu-Material.git
 
 ## License
+<span style="color:#5f9ea0"> Technische Universiteit Delft hereby disclaims all copyright interest in the program "Deep Learning Course - Education Material" written by Elena Congeduti. </span>
 
-<span style="color: rgb(70, 130, 180);"> Technische Universiteit Delft hereby disclaims all copyright interest in the program "Deep Learning Education Material" written by Elena Congeduti. 
-Lucas van Vliet, Dean of EEMCS. </span>
+<span style="color:#5f9ea0">Lucas van Vliet, Dean of EEMCS, TUDelft. </span>
 
 ©2025, Elena Congeduti. This work is licensed under the Apache 2.0 OSS licence.
 
