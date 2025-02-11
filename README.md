@@ -34,5 +34,5 @@ To clone the repository in your local machine, use the following command:
 
 *Lucas van Vliet, Dean of EEMCS, TUDelft.*
 
-©2025, Elena Congeduti, . This work is licensed under the Apache 2.0 OSS licence.
+©2025, Elena Congeduti, TI3155TU Deep learning, Engineering with AI Minor. This work is licensed under the Apache 2.0 OSS licence.
 
