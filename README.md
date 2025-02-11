@@ -30,9 +30,9 @@ To clone the repository in your local machine, use the following command:
    ```
 
 ## License
-**Technische Universiteit Delft hereby disclaims all copyright interest in the program "Deep Learning Course - Educational Material" written by Elena Congeduti. 
+*Technische Universiteit Delft hereby disclaims all copyright interest in the program "Deep Learning Course - Educational Material" written by Elena Congeduti.*
 
-<span style="color:#5f9ea0">Lucas van Vliet, Dean of EEMCS, TUDelft.**
+*Lucas van Vliet, Dean of EEMCS, TUDelft.*
 
 ©2025, Elena Congeduti, . This work is licensed under the Apache 2.0 OSS licence.
 
